@@ -1,0 +1,225 @@
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#181720">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#182172">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#184516">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#184517">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#184647">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#184835">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#184982">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#184997">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#185001">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#185015">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#185043">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#185047">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Análisis Clínicos">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Bacteriólogo/a Clínica e Industrial">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Bioquímico/a">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Fonoaudiólogo/a">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Kinesiologo/a">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Licenciado/a en Enfermería">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Licenciado/a en Fonoaudiología">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Licenciado/a en Kinesiología">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Licenciado/a en Musicoterapia">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Licenciado/a en Nutrición">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Licenciado/a en Obstetricia">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Licenciado/a en Psicología">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Licenciado/a en Psicomotricidad">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Licenciado/a en Psicopedagogía">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Licenciado/a en Química">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Licenciado/a en Terapia Ocupacional">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Médico/a">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Musicoterapeuta">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Nutricionista/Dietísta">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Obstetricia">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Obstetrico/a">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Odontólogo/a">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Psicologo/a">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Psicomotricista">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Psicopedagogo/a">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+     </owl:NamedIndividual>
+    
+
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#Terapia Ocupacional">   
+     <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Speciality"/>
+    
