@@ -1,0 +1,11 @@
+#Plantilla para filas
+      <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/ObrasSociales#{{cells["Nombre"].value}}">
+      <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Pharmacy"/>
+      <ns:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">{{jsonize(cells["Provincia"].value)}}</ns:region>
+      <ns:locality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">{{jsonize(cells["Localidad"].value)}}</ns:locality>
+      <ns:postal-code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">{{cells["CodigoPostal"].value}}</ns:postal-code>
+      <ns:street-address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">{{jsonize(cells["Direccion"].value)}}</ns:street-address>   
+#Separador de linea
+      </owl:NamedIndividual>
+
+

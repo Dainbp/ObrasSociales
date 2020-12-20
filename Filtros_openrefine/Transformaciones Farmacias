@@ -1,0 +1,3276 @@
+[
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad_nombre",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "localidad_nombre",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "MONTERRICO",
+          "MONTERRICO  (MONTERRICO)"
+        ],
+        "to": "MONTERRICO"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "YERBA BUENA - MARCOS PAZ (YERBA BUENA - MARCOS PAZ)",
+          "YERBA BUENA - MARCOS PAZ"
+        ],
+        "to": "YERBA BUENA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "VILLA UNIÓN (VILLA UNIÓN)",
+          "VILLA UNION"
+        ],
+        "to": "VILLA UNIÓN"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "SAN MIGUEL (SAN MIGUEL)",
+          "SAN MIGUEL"
+        ],
+        "to": "SAN MIGUEL"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "MERLO (MERLO)",
+          "MERLO"
+        ],
+        "to": "MERLO"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "PILAR (PILAR)",
+          "PILAR"
+        ],
+        "to": "PILAR"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "SAN VICENTE",
+          "SAN VICENTE (SAN VICENTE)"
+        ],
+        "to": "SAN VICENTE"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AIMOGASTA  (AIMOGASTA)",
+          "AIMOGASTA"
+        ],
+        "to": "AIMOGASTA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AVELLANEDA (AVELLANEDA)",
+          "AVELLANEDA"
+        ],
+        "to": "AVELLANEDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "MAIPÚ (MAIPÚ)",
+          "MAIPU"
+        ],
+        "to": "MAIPÚ"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "COMODORO RIVADAVIA",
+          "COMODORO RIVADAVIA  (COMODORO RIVADAVIA)"
+        ],
+        "to": "COMODORO RIVADAVIA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "RAWSON (RAWSON)",
+          "RAWSON"
+        ],
+        "to": "RAWSON"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "SAN ANDRÉS",
+          "SAN ANDRES"
+        ],
+        "to": "SAN ANDRÉS"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "SALSIPUEDES (SALSIPUEDES)",
+          "SALSIPUEDES"
+        ],
+        "to": "SALSIPUEDES"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ITUZAINGO SUR",
+          "ITUZAINGÓ (ITUZAINGÓ SUR)"
+        ],
+        "to": "ITUZAINGO SUR"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "CHILECITO  (CHILECITO)",
+          "CHILECITO"
+        ],
+        "to": "CHILECITO"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "MAXIMO PAZ",
+          "MÁXIMO PAZ (MÁXIMO PAZ)"
+        ],
+        "to": "MAXIMO PAZ"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AGUILARES  (AGUILARES)",
+          "AGUILARES"
+        ],
+        "to": "AGUILARES"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "CONCORDIA (CONCORDIA)",
+          "CONCORDIA"
+        ],
+        "to": "CONCORDIA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "SAN JOSE",
+          "SAN JOSÉ (SAN JOSÉ)"
+        ],
+        "to": "SAN JOSE"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "MARTÍNEZ",
+          "MARTINEZ"
+        ],
+        "to": "MARTÍNEZ"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "BAHÍA BLANCA (BAHÍA BLANCA)",
+          "BAHIA BLANCA"
+        ],
+        "to": "BAHÍA BLANCA"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "R"
+        ],
+        "to": "Rio Negro"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Q"
+        ],
+        "to": "Neuquén"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "B"
+        ],
+        "to": "Buenos Aires"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "C"
+        ],
+        "to": "Capital Federal"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Q"
+        ],
+        "to": "Neuquén"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "R"
+        ],
+        "to": "Rio Negro"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "C"
+        ],
+        "to": "Capital Federal"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "B"
+        ],
+        "to": "Buenos Aires"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "D"
+        ],
+        "to": "San Luis"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "F"
+        ],
+        "to": "La Rioja"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "G"
+        ],
+        "to": "Santiago del Estero"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "H"
+        ],
+        "to": "Chaco"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "J"
+        ],
+        "to": "San Juan"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "K"
+        ],
+        "to": "Catamarca"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "L"
+        ],
+        "to": "La Pampa"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "M"
+        ],
+        "to": "Mendoza"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "N"
+        ],
+        "to": "Entre Ríos"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "P"
+        ],
+        "to": "Formosa"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "S"
+        ],
+        "to": "Santa Fe"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "T"
+        ],
+        "to": "Tucuman"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Tucuman"
+        ],
+        "to": "Tucuman"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "V"
+        ],
+        "to": "Tierra del Fuego"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Entre Ríos"
+        ],
+        "to": "Misiones"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "W"
+        ],
+        "to": "Corrientes"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "X"
+        ],
+        "to": "Córdoba"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Y"
+        ],
+        "to": "Jujuy"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Z"
+        ],
+        "to": "Santa Cruz"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "U"
+        ],
+        "to": "Chubut"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "A"
+        ],
+        "to": "Salta"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Provincia",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "E"
+        ],
+        "to": "Entre Ríos"
+      }
+    ]
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column categoria_id",
+    "columnName": "categoria_id"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column localidad_id",
+    "columnName": "localidad_id"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column departamento_id",
+    "columnName": "departamento_id"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column provincia_id",
+    "columnName": "provincia_id"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column establecimiento_id",
+    "columnName": "establecimiento_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column sitio_web",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "sitio_web",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "*sin dato*"
+        ],
+        "to": ""
+      }
+    ]
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column domicilio using expression grel:value.toUppercase()",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "farmacias.csv",
+                "l": "farmacias.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "domicilio",
+    "expression": "grel:value.toUppercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "1"
+        ],
+        "to": "Neuquén"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "10"
+        ],
+        "to": "El Huecu"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "11"
+        ],
+        "to": "Chos Malal"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "12"
+        ],
+        "to": "Andacollo"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "13"
+        ],
+        "to": "Buta Ranquil"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "14"
+        ],
+        "to": "Alumine"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "15"
+        ],
+        "to": "Junin de los Andes"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "16"
+        ],
+        "to": "San Martín de los Andes"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "17"
+        ],
+        "to": "Villa la Angostura"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "18"
+        ],
+        "to": "Centenario"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "19"
+        ],
+        "to": "San Patricio del Chañar"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "2"
+        ],
+        "to": "Plottier"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "4"
+        ],
+        "to": "El Chocón"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "5"
+        ],
+        "to": "Plaza Huincul"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "6"
+        ],
+        "to": "Cutral Co"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "7"
+        ],
+        "to": "Zapala"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "8"
+        ],
+        "to": "Las Lajas"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "9"
+        ],
+        "to": "Loncopue"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "24"
+        ],
+        "to": "Las Ovejas"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "22"
+        ],
+        "to": "Picun Leufu"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "23"
+        ],
+        "to": "Piedra del Águila"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "25"
+        ],
+        "to": "El Cholar"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "27"
+        ],
+        "to": "Añelo"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "28"
+        ],
+        "to": "Santo Tomás"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "3"
+        ],
+        "to": "Senillosa"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "30"
+        ],
+        "to": "Caviahue"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "33"
+        ],
+        "to": "Tricao Malal"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "34"
+        ],
+        "to": "Villa Traful"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "35"
+        ],
+        "to": "Barrancas"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "37"
+        ],
+        "to": "Las Coloradas"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "38"
+        ],
+        "to": "Huinganco"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "103"
+        ],
+        "to": "Copahue"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "142"
+        ],
+        "to": "Mariano Moreno"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "144"
+        ],
+        "to": "Bajada del Agrio"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "207"
+        ],
+        "to": "Villa Pehuenia"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "221"
+        ],
+        "to": "Capital Federal CABA"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "224"
+        ],
+        "to": "Viedma"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "239"
+        ],
+        "to": "Choele Choel"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "241"
+        ],
+        "to": "Lamarque"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "242"
+        ],
+        "to": "Luis Beltran"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "245"
+        ],
+        "to": "Bariloche"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "248"
+        ],
+        "to": "Conesa"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "250"
+        ],
+        "to": "Allen"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "252"
+        ],
+        "to": "Catriel"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "254"
+        ],
+        "to": "Cinco Saltos"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "255"
+        ],
+        "to": "Cipolletti"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "259"
+        ],
+        "to": "Fernandez Oro"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "260"
+        ],
+        "to": "General Roca"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "263"
+        ],
+        "to": "Villa Regina"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "264"
+        ],
+        "to": "Villa Manzano"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "274"
+        ],
+        "to": "Rio Colorado"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "278"
+        ],
+        "to": "San Antonio Oeste"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "283"
+        ],
+        "to": "Jacobacci"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "296"
+        ],
+        "to": "La Plata"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "316"
+        ],
+        "to": "Capital Federal CABA"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "322"
+        ],
+        "to": "Las Grutas"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "329"
+        ],
+        "to": "Lanús"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column localidad",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "prest-suc.csv",
+                "l": "prest-suc.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "localidad",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "345"
+        ],
+        "to": "Berisso"
+      }
+    ]
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column establecimiento_nombre using expression grel:\"#\"+replaceChars(value,' ','_')",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "farmacias.csv",
+                "l": "farmacias.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "establecimiento_nombre",
+    "expression": "grel:\"#\"+replaceChars(value,' ','_')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column provincia_nombre using expression grel:\"#\"+replaceChars(value,' ','_')",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "farmacias.csv",
+                "l": "farmacias.csv"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "File",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "File"
+        }
+      ]
+    },
+    "columnName": "provincia_nombre",
+    "expression": "grel:\"#\"+replaceChars(value,' ','_')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  }
+]

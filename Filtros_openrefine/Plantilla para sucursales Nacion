@@ -1,0 +1,9 @@
+#Plantilla para filas
+        <owl:NamedIndividual rdf:about="http://www.semanticweb.org/jota/ontologies/ObrasSociales#cells["establecimiento_nombre"].value}}">
+        <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/2018/9/untitled-ontology-14#ClinicsAndHospitals"/>
+        <ns:region rdf:datatype="http://www.w3.org/2001/XMLSchema#string">{{jsonize(cells["provincia_nombre"].value)}}</ns:region>
+
+#Separador de linea
+      </owl:NamedIndividual>
+
+

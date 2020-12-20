@@ -1,0 +1,9 @@
+#Plantilla para filas
+       <owl:NamedIndividual rdf:about="http://www.semanticweb.org/jota/ontologies/ObrasSociales#{{cells["apellido"].value}},{{cells["nombre"].value}}">
+       <rdf:type rdf:resource="http://www.semanticweb.org/daia/ontologies/ObrasSociales#Medics"/>
+       <ns:family-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">{{cells["apellido"].value}}</ns:family-name>
+       <ns:given-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">{{cells["nombre"].value}}</ns:given-name>
+ 
+#Separador de filas
+      </owl:NamedIndividual>
+
